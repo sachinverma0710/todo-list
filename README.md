@@ -1,3 +1,3 @@
 # todo-list
 this is repository for project todo list.
-check it out through this link. [todo-listsv.netlify.app](https://phenomenal-pithivier-f235ac.netlify.app/)https://phenomenal-pithivier-f235ac.netlify.app/
+check it out through this link. https://todo-listsv.netlify.app/
